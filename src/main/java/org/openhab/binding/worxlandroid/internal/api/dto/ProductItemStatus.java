@@ -26,7 +26,7 @@ import java.util.Map;
 public class ProductItemStatus {
 
     public class Features {
-        public double autoLock;
+        public boolean autoLock;
         public double bluetoothControl;
         public boolean bluetoothPairing;
         public String chassis;
